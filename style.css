@@ -1,0 +1,117 @@
+body {
+  /* margin: 0px;
+  padding: 0px; */
+  background-color: rgb(239 238 238);
+  /* z-index: -1; */
+  font-family: Helvetica, Arial, sans-serif;
+}
+.container {
+  display: inline;
+}
+
+.box {
+  /* display: flex; */
+  /* flex-direction: row; */
+  margin: 151px 1054px;
+  margin-right: 20px;
+  margin-left: 889px;
+  border-radius: 10px;
+  height: 370px;
+  width: 396px;
+  background-color: rgb(255, 255, 255);
+  box-shadow: -1px 2px 20px 5px #e0dbdb;
+}
+.box:hover {
+  border-color: blue;
+}
+.pin input {
+  font-size: 17px;
+  border: 2px solid rgb(219, 216, 216);
+  padding: 14px 16px;
+  width: 362px;
+  margin: 16px 154px -2px 16px;
+  border-radius: 6px;
+}
+.btn {
+  display: inline;
+  background-color: #1877f2;
+  border: none;
+  border-radius: 6px;
+  font-size: 21px;
+  padding: 14px 16px;
+  width: 362px;
+  margin: 16px 154px -2px 16px;
+  cursor: pointer;
+  color: white;
+  font-weight: bold;
+}
+.btn:hover {
+  background-color: rgb(72, 116, 189);
+}
+.sed {
+  color: #1877f2;
+  font-size: 14px;
+  font-weight: 500;
+  font-family: -webkit-pictograph;
+  margin: 18px 133px;
+}
+.sed:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
+hr {
+  width: 354px;
+  margin: 29px 19px;
+  color: rgb(219, 216, 216);
+  opacity: 0.3;
+}
+.red {
+  width: 206px;
+  height: 53px;
+  padding-top: 3px;
+  font-size: 18px;
+  border-radius: 6px;
+  margin: -4px 95px;
+  background-color: #62d43a;
+  border: none;
+  color: white;
+}
+.red:hover {
+  background-color: rgb(101, 195, 38);
+  cursor: pointer;
+  /* transition: all 1s ease-in-out 0.3s; */
+}
+.kill {
+  margin-left: 277px;
+  margin-top: -465px;
+  color: rgb(113, 130, 231);
+  font-weight: bolder;
+  font-size: 62px;
+  font-family: "Urbanist", sans-serif;
+}
+.fear {
+  color: black;
+  display: inline;
+  font-family: inherit;
+  font-weight: inherit;
+  font-size: 21px;
+  font-weight: normal;
+  line-height: 32px;
+  width: 500px;
+}
+h2 {
+  margin: 11px 280px;
+  font-weight: inherit;
+  font-weight: 100;
+}
+.ama {
+  margin: 50px;
+  font-size: 14px;
+}
+.here {
+  font-weight: bold;
+}
+.here:hover {
+  cursor: pointer;
+  text-decoration: underline;
+}
